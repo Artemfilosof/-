@@ -15,7 +15,15 @@ Ukraine
 3d animator in marvel studios.
 
 Спеціалізуюсь на розробці та довгостроковій підтримці навчального програмного забезпечення. Маю великий досвід роботи з базами даних (переважно PostgreSQL, Oracle), Linux, git, ruby, інструментами моніторингу (NewRelic, Rollbar,...) та іншими технологіями, пов'язаними з розробкою на Ruby on Rails та підтримкою веб-додатків.
+aaa
 
+
+
+
+
+
+
+ttt
 Досвід роботи з Moodle, edX та власною LMS Сумського державного університету, а також створення текстових та відео-курсів. Досвід у розробці інтерактивних навчальних матеріалів з використанням Java/JavaScript.
 gggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggggghfhgf
 ## Досвід роботи
